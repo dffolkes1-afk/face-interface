@@ -1,0 +1,119 @@
+# face-interface
+Public-facing execution and display layer for sovereign system outputs.
+face-interface/
+│
+├── README.md                         # face-interface
+Public execution surface.
+
+---
+
+## Overview
+
+FACE is the **only system the public ever sees**.
+
+It does not think.
+It does not measure.
+It does not decide.
+
+FACE only **renders authorized outputs**
+from sovereign internal systems.
+
+---
+
+## Purpose
+
+FACE exists to answer one question:
+
+**“What is safe, permitted, and accurate to show?”**
+
+It transforms internal scores into:
+- Visual indicators
+- Percentages
+- Status signals
+- Public-facing confirmations
+
+---
+
+## What FACE Displays
+
+- Approved scores
+- Performance states
+- Threshold indicators
+- Stability markers
+- System confirmations
+
+---
+
+## What FACE Does NOT Do
+
+- It does not calculate
+- It does not score
+- It does not infer intent
+- It does not store raw data
+
+FACE has zero authority.
+
+---
+
+## Data Flow
+
+- **NIMROD → FACE**
+- **VoiceScore → NIMROD → FACE**
+- **FACE ↛ Internal Systems**
+
+FACE is downstream only.
+
+---
+
+## Disclosure Control
+
+All outputs are:
+- Pre-approved
+- Filtered
+- Bounded by visibility rules
+- Jurisdiction-aware
+
+FACE never leaks logic.
+
+---
+
+## Governance
+
+- Public-safe
+- Read-only
+- Revocable displays
+- No override power
+
+---
+
+## Status
+
+Public  
+Surface-only  
+Stateless  
+Replaceable without risk
+│
+├── display/
+│   ├── dashboards.md
+│   ├── score-panels.md
+│   └── status-indicators.md
+│
+├── formatting/
+│   ├── percentages.md
+│   ├── color-logic.md
+│   └── threshold-visuals.md
+│
+├── ingestion/
+│   ├── nimrod-feed.md
+│   └── voicescore-feed.md
+│
+├── controls/
+│   ├── visibility-rules.md
+│   └── disclosure-limits.md
+│
+├── compliance/
+│   ├── public-safety.md
+│   └── jurisdictional-notes.md
+│
+└── branding/
+    └── neutral-surface.md
